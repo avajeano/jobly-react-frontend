@@ -1,0 +1,10 @@
+.form-label {
+    font-weight: bold;
+    margin: 20px 40px;
+}
+
+input {
+    height: 25px;
+    width: 300px;
+    margin: 7px;
+}
